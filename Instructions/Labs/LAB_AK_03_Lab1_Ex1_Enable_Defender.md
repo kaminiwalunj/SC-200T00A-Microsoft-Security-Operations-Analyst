@@ -179,7 +179,7 @@ In this task, you will install Azure Arc on an on-premises server to make onboar
     cd C:\Users\Administrator\Downloads
     ```
 
-      > **Important:** If you do not have this directory, it most likely means that you are on the wrong machine. Go back to the beginning of Task 4, change to WINServer and start over.
+      > **Important:** If you do not have this directory, it most likely means that you are on the wrong machine. Go back to the beginning of Task 3, change to WINServer and start over.
 
 1. In PowerShell, run the below **command (2)** to set the execution policy as unrestricted.
 
