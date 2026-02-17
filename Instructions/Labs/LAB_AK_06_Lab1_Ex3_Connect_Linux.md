@@ -40,7 +40,7 @@ In this task, you will connect a Linux host to Microsoft Sentinel with the Commo
 
 1. Once the **Common Event Format** is installed, clck on **Manage**.
 
-1. Select **Common Event Format (CEF) via AMA (1)** connector from the list, and click oon **Open connector page (2)**.
+1. Select **Common Event Format (CEF) via AMA (1)** connector from the list, and click on **Open connector page (2)**.
 
    ![](../Media/L5T1S5-1301.png)
 
@@ -139,7 +139,6 @@ In this task, you will update the **Data Collection Rule (DCR)** created in the 
 1. On the search bar, search for **Data collection rule (1)** and select it **(2)**.
 
    ![](../Media/L5T3S1-1301.png)
-
 
 1. Select the **WINDCR2** data collection rule from the list.
 
