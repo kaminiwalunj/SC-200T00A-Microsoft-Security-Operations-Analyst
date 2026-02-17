@@ -253,6 +253,7 @@ In this task, you will connect an Azure Windows virtual machine to Microsoft Sen
    ![](../Media/l8e3-14.png)
     
 1. In the **Configuration section**, select the **Create data collection rule (1)**.
+   
 1. Enter **AZWINDCR (2)** for Rule Name, then select **Next: Resources (3)**.
 
    ![](../Media/ch-3.7.png)
@@ -260,7 +261,6 @@ In this task, you will connect an Azure Windows virtual machine to Microsoft Sen
 1. Expand **RG-AZWIN01**, then select **AZWIN01 (1)**, and click on **Next: Collect (2)**.
 
    ![](../Media/L4T4S10-1301.png)
-
 
 1. Review the different Security Event collection option. Keep *All Security Events* and then select **Next: Review + create**.
 
